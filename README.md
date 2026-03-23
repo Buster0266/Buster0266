@@ -1,4 +1,3 @@
-<img width="56" height="56" alt="image" src="https://github.com/user-attachments/assets/1996ff3d-2e12-4663-b997-4d0284223b59" />
 ## Hola, mi nombre es Erik Bustos 👋
 
 Algunos proyectos que me ha tocado gestionar:
