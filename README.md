@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, mi nombre es Erik Bustos 👋
 
 Algunos proyectos que me ha tocado gestionar:
 
