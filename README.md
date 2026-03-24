@@ -13,3 +13,11 @@ En el ámbito de automatización y analítica, he utilizado herramientas como Po
 Adicionalmente, en proyectos vinculados a servicios de terreno y geodesia, he participado en la integración de tecnologías asociadas a captura de datos, monitoreo y control de obras, incluyendo el uso de herramientas para levantamiento topográfico, inspecciones técnicas y procesamiento de información espacial.
 
 Mi experiencia se caracteriza por la capacidad de integrar múltiples sistemas tecnológicos, coordinar equipos multidisciplinarios y asegurar que las soluciones implementadas generen valor tanto a nivel operativo como estratégico para las organizaciones.
+
+Stack Tecnológico:
+Frontend: Tecnologías con las que interactúa el usuario (ej. HTML, CSS, JavaScript, React, Angular, Vue.js).
+Backend: Lógica, API y gestión de datos (Node.js, Python, Ruby, Java, PHP).
+Base de datos: Almacenamiento de información (MySQL, PostgreSQL, MongoDB, Oracle, Sql Server).
+Infraestructura: Servidores y nube (AWS, Oracle, Azure). 
+Herramientas de gestion de trabajo o de proyectos: (Asana, Jira, Confluence, Service Now (Lo que debe entregarse y cuando)
+Herramientas de control y planificación: Microsoft Project y Planillas Excel para Matriz RACI
