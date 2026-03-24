@@ -6,7 +6,7 @@ He trabajado principalmente en la gestión e integración de sistemas de infraes
 
 Stack Tecnológico:
 
-- Frontend: Tecnologías con las que interactúa el usuario (ej. HTML, CSS, JavaScript, React, Angular, Vue.js).
+- Frontend: Tecnologías con las que interactúa el usuario (HTML, CSS, JavaScript, React, Angular).
 - Backend: Lógica, API y gestión de datos (Node.js, Python, Ruby, Java, PHP).
 - Base de datos: Almacenamiento de información (MySQL, PostgreSQL, MongoDB, Oracle, Sql Server).
 - Infraestructura: Servidores y nube (AWS, Oracle, Azure).
