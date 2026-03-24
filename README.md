@@ -1,4 +1,4 @@
-👴## Hola, mi nombre es Erik Bustos## 👋
+👴**Hola, mi nombre es Erik Bustos**👋
 
 Profesional con más de 20 años de experiencia en TI y transformación digital, especializado en los sectores bancario, retail y gubernamental, experiencia demostrada en la optimización de tiempo, costos y alcance a las iniciativas asignadas y en la gestión exitosa de proyectos multidisciplinarios. Algunos proyectos que me ha tocado gestionar son:
 
