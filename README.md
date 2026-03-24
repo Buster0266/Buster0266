@@ -1,88 +1,15 @@
 👴**Hola, mi nombre es Erik Bustos**👋
 
-Profesional con más de 20 años de experiencia en TI y transformación digital, especializado en los sectores bancario, retail y gubernamental, experiencia demostrada en la optimización de tiempo, costos y alcance a las iniciativas asignadas y en la gestión exitosa de proyectos multidisciplinarios. Algunos proyectos que me ha tocado gestionar son:
+A lo largo de mi trayectoria profesional he gestionado e integrado diversos sistemas tecnológicos en entornos corporativos, principalmente en sectores como banca, servicios y consultoría TI.
 
-Proyecto Evaluación de solución cloud
+En el ámbito de infraestructura y redes, he trabajado con plataformas on-premise y cloud, administrando entornos de data center, redes de datos y conectividad, asegurando disponibilidad, continuidad operativa y cumplimiento de estándares de seguridad.
 
-Descripción : Análisis e implementación de infraestructura TI para cliente, considerando necesidades operativas y escalabilidad.
+En relación con ciberseguridad, he participado en la implementación de controles como autenticación multifactor (MFA), gestión de accesos y políticas de seguridad alineadas a estándares como ISO 27001, NIST y CIS, contribuyendo a la protección de sistemas críticos y datos sensibles.
 
-Desafío
+Respecto a sistemas de gestión y ticketing, he trabajado en la coordinación de procesos operativos y de soporte, integrando soluciones que permiten el seguimiento de incidencias, gestión de requerimientos y mejora de niveles de servicio (SLA), facilitando la trazabilidad y control de las operaciones.
 
-- Integrar requerimientos técnicos y de negocio
-- Optimizar costos sin afectar disponibilidad
+En el ámbito de automatización y analítica, he utilizado herramientas como Power BI, Python y R para el análisis de datos, generación de reportes y apoyo a la toma de decisiones, permitiendo optimizar procesos y mejorar la eficiencia operativa.
 
-Solución
+Adicionalmente, en proyectos vinculados a servicios de terreno y geodesia, he participado en la integración de tecnologías asociadas a captura de datos, monitoreo y control de obras, incluyendo el uso de herramientas para levantamiento topográfico, inspecciones técnicas y procesamiento de información espacial.
 
-- Diseño de arquitectura híbrida
-- Estandarización de requerimientos técnicos
-
-Herramientas
-
-- Cloud (AWS / similar)
-- Power BI
-- Python (automatización básica)
-
-Aprendizajes
-
-- Importancia del diseño previo (arquitectura)
-- Gestión de stakeholders técnicos vs negocio
-
-Métricas
-
-- Reducción de costos operativos
-- Mejora en tiempos de implementación
-- Mayor estabilidad del sistema
-
-Habilidades
-
-- Arquitectura TI
-- Gestión de proyectos
-- Análisis de datos
-
-Proyecto Implementación ERP (SAPB1)
-
-Descripción :Participación en levantamiento e implementación de ERP.
-
-Desafío
-
-- Estandarizar procesos de negocio complejos
-
-Solución
-
-- Modelamiento de procesos
-- Parametrización del sistema
-
-Herramientas
-
-- SAP
-- Metodologías ágiles / híbridas
-
-Aprendizajes
-
-- Importancia de la alineación negocio–sistema
-
-Métricas
-
-- Mejora en eficiencia operativa
-
-	Proyecto 3: Gestión integral de proyectos (BNP Paribas)
-
-Proyecto Gestión end-to-end de proyectos tecnológicos.
-
-Desafío
-
-- Balancear alcance, costo y riesgo
-
-Solución
-
-- Uso de marcos PMI + Agile
-
-Herramientas
-
-- Jira / gestión ágil
-- Modelos financieros
-
-Aprendizajes
-
-- Gobernanza de proyectos complejos
-
+Mi experiencia se caracteriza por la capacidad de integrar múltiples sistemas tecnológicos, coordinar equipos multidisciplinarios y asegurar que las soluciones implementadas generen valor tanto a nivel operativo como estratégico para las organizaciones.
