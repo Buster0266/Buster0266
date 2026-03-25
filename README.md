@@ -1,6 +1,6 @@
 👴**Hola, mi nombre es Erik Bustos**👋
 
-A lo largo de mi trayectoria profesional he gestionado e integrado diversos sistemas tecnológicos en entornos corporativos, tanto en rol de Project MAnager o Product MAnager segun sea el caso en sectores como banca, servicios y consultoría TI. Mi foco es desarrollarme en la gestión de proyectos en el ambito de la tecnologias renovables.
+A lo largo de mi trayectoria profesional he gestionado e integrado diversos sistemas tecnológicos en entornos corporativos, tanto en rol de __Project Manager__ o __Product Owner__ segun sea el caso en sectores como banca, servicios y consultoría TI. Mi foco es desarrollarme en la gestión de proyectos en el ambito de la tecnologias renovables.
 
 He trabajado principalmente en la gestión e integración de sistemas de infraestructura TI, redes de datos y plataformas cloud, junto con soluciones de ciberseguridad como MFA y control de accesos. También he participado en la implementación de sistemas de soporte y ticketing para gestión de incidentes y SLA, además de herramientas de analítica como Power BI para la toma de decisiones. Mi foco ha sido integrar estos sistemas de forma que soporten la operación y generen valor al negocio.
 
